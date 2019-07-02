@@ -1,17 +1,17 @@
-# Truthiness Code Challenge
+# Truthiness Quiz
 
 ## Objectives
 
-1. Strengthen your understanding of truthiness in Ruby
-2. Practice using boolean and comparison operators
+- Strengthen your understanding of truthiness in Ruby
+- Practice using boolean and comparison operators
 
 ???
 
-# Code Challenge
+# Quiz
 
 ?: Take a look at the code below. We have defined a method, `returning_true` that uses a comparison operator, the `<` (less than) to compare the number 14 to... nothing. What value(s) for `?` will make `returning_true` return `true`?
 
-``` ruby
+```ruby
 def returning_true
   14 < ?
 end
@@ -24,7 +24,7 @@ end
 
 ?: Here we have a method, `returning_false` that uses both comparison and boolean operators. What value(s) for `?` will make `returning_false` return `false`?
 
-``` ruby
+```ruby
 def returning_false
   7 > 4 && 100 < ?
 end
