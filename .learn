@@ -4,7 +4,7 @@ tags:
   - boolean operators
   - comparison operators
   - repl
-language:
+languages:
   - ruby
 resources:
   - 0
